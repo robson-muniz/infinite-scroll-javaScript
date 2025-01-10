@@ -1,7 +1,7 @@
 
-# Infinite Scroll in JavaScript
+# Infinite Scroll in JavaScript 🌐
 
-A simple project showcasing how to implement infinite scrolling using plain JavaScript. This feature is commonly used in modern web applications to load content dynamically as the user scrolls down the page.
+A simple project showcasing how to implement infinite scrolling using plain JavaScript. This feature is commonly used in modern web applications to load content dynamically as the user scrolls down the page. 🖱️📜
 
 ![Infinite Scroll Preview](https://github.com/user-attachments/assets/a897769a-1dea-4f2d-855c-ea1e8c810c51)
 )
