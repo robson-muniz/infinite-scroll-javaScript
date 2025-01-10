@@ -27,7 +27,7 @@ A simple project showcasing how to implement infinite scrolling using plain Java
 
 ## Demo
 
-Check out the live version of the project [here](https://robson-muniz.github.io/infinite-scroll-javaScript/).
+Check out the live version of the project [here](https://clever-strudel-623f22.netlify.app).
 
 ---
 
